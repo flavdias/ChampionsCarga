@@ -1,10 +1,14 @@
 import json
 import firebase_admin
+import configparser
 from firebase_admin import credentials
 from firebase_admin import firestore
 
+config = configparser.RawConfigParser()
+config.read('local.properties')
+
 # Use a service account
-cred = credentials.Certificate('C:/Users/flavi/Documents/service-account-file.json')
+cred = credentials.Certificate(config.get('Certificate', 'location'))
 firebase_admin.initialize_app(cred)
 
 with open('carga/paises.json', encoding='utf8') as json_file:

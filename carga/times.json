@@ -30,6 +30,17 @@
     {"sigla":"YOU", "nome": "Young Boys", 			"pais": "SUI",   "icone": "ic_50031.png"},
     {"sigla":"INT", "nome": "Inter de Milao", 		"pais": "ITA",   "icone": "ic_50138.png"},
     {"sigla":"HOF", "nome": "Hoffenheim", 			"pais": "ALE",   "icone": "ic_2600431.png"},
-    {"sigla":"EST", "nome": "Estrela Vermelha", 		"pais": "RUS",   "icone": "ic_50069.png"},
-    {"sigla":"AEK", "nome": "AEK", 					"pais": "GRE",   "icone": "ic_50129.png"}
+    {"sigla":"EST", "nome": "Estrela Vermelha", 		"pais": "SER",   "icone": "ic_50069.png"},
+    {"sigla":"AEK", "nome": "AEK", 					"pais": "GRE",   "icone": "ic_50129.png"},
+    {"sigla":"ATA", "nome": "Atalanta", "pais":"ITA", "icone":"ic_52816.png"},
+    {"sigla":"CHE", "nome": "Chelsea", "pais":"ING", "icone":"ic_52914.png"},
+    {"sigla":"DIN", "nome": "Dínamo Zagreb", "pais": "CRO", "icone":"ic_50164.png"},
+    {"sigla":"GNK", "nome": "Genk", "pais":"BEL", "icone":"ic_61582.png"},
+    {"sigla":"RBL", "nome": "RB Leipzig", "pais":"ALE", "icone":"ic_2603790.png"},
+    {"sigla":"LEV", "nome": "Bayer Leverkusen", "pais":"ALE", "icone":"ic_50109.png"},
+    {"sigla":"LIL", "nome": "LOSC Lille", "pais":"FRA", "icone":"ic_75797.png"},
+    {"sigla":"OLI", "nome": "Olympiacos", "pais": "GRE", "icone":"ic_2610.png"},
+    {"sigla":"SAL", "nome": "Salzburgo", "pais":"AUT", "icone":"ic_50030.png"},
+    {"sigla":"PRA", "nome": "Slavia Praga", "pais":"RTC", "icone":"ic_52498.png"},
+    {"sigla":"ZEN", "nome": "Zenit", "pais":"RUS", "icone":"ic_52826.png"}
   ]}
